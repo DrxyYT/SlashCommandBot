@@ -19,9 +19,9 @@ async def ping(ctx):
 async def help(ctx):
     help_message = """
     **Command Categories:**
-    - /ping
+    /ping
 
-    - /embed
+    /embed
 
     Feel free to contact the bot owner for additional assistance.
     """
