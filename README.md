@@ -15,4 +15,5 @@ A link to install is available here: https://guide.pycord.dev/installation this 
 
 # How can we reach you Drxy?
 My discord is: **defnot.drxy**
+
 Email: **drxygithub@gmail.com**
