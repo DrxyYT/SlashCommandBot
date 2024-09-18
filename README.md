@@ -14,6 +14,6 @@ Calm down calm down, Im not using it because when I tried to use slash commands 
 A link to install is available here: https://guide.pycord.dev/installation this will also help you make a bot as well. **Make sure to uninstall *"discord.py"* first!!**
 
 # How can we reach you Drxy?
-My discord is: **defnot.drxy**
+My discord is: **fwdrxyy_**
 
 Email: **drxygithub@gmail.com**
